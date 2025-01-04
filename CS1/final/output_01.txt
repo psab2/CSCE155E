@@ -1,0 +1,25 @@
+=====================
+ Elevation Report    
+=====================
+Highest Elevation: 385.60m
+Lowest Elevation:  334.70m
+
+
+=====================
+ Elevation Gain Report
+=====================
+Elevation Gain: +185.50m
+
+
+=====================
+ Distance Report     
+=====================
+Total distance: 16.89km
+
+
+=====================
+ Time Report     
+=====================
+Moving time: 01:34:16 (5656)
+Wait time:   00:10:22 (622)
+Total time:  01:44:38 (6278)
